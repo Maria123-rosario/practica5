@@ -1,0 +1,31 @@
+/*Parte de la practica 6*/
+.banner {
+    border: 1;
+    margin: 0;
+    padding: 20px 10px 40px;
+    border-collapse: collapse;
+    background-color: #022F58;
+    color:white
+}
+
+body{
+    background-attachment: #665959;
+    font-family: 'arial';
+    font-size: 18px;
+    background-color: #9400FF;
+}
+td {
+    vertical-align: text-top;
+}
+
+div {
+    color: #000;
+    height: 100%;
+    padding: 20px 10px 40px;
+    margin: 10px;
+    border: 1px solid #000;
+    background-color: #AED2FF;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 2px 2px 5px #AED2FF;
+}
+
